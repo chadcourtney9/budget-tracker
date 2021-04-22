@@ -5,21 +5,24 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "webpack --watch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-loader": "^8.2.2",
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "logger": "0.0.1",
     "mongoose": "^5.12.5",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.7",
-    "webpack": "^5.35.0"
+    "nodemon": "^2.0.7"
   },
   "devDependencies": {
+    "webpack": "^5.35.0",
+    "webpack-cli": "^4.6.0",
     "webpack-pwa-manifest": "^4.3.0"
   }
 }
