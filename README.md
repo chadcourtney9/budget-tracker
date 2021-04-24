@@ -7,7 +7,7 @@
 <a href="https://stormy-taiga-31660.herokuapp.com/" target="_blank">See deployed page here </a>
 
 # Screen shots of page
-![page]()
+![page](https://github.com/chadcourtney9/budget-tracker/blob/main/public/images/screencap.PNG)
 
 
 # Technology
