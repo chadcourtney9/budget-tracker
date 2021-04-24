@@ -7,8 +7,8 @@
 <a href="https://stormy-taiga-31660.herokuapp.com/" target="_blank">See deployed page here </a>
 
 # Screen shots of page
-![homepage](https://github.com/chadcourtney9/Fitness-Tracker/blob/main/public/images/homepage.PNG)
-![dashboard](https://github.com/chadcourtney9/Fitness-Tracker/blob/main/public/images/dashboard.PNG)
+![page]()
+
 
 # Technology
 #### Dotenv, Express, Mongoose, Nodemon, Logger, Compression
